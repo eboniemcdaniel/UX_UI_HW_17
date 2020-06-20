@@ -19,8 +19,13 @@ ul {
   margin-left: auto;
 }
 
+.heroimg {
+  height: 600px;
+  padding: 25px;
+}
+
 .heroimg img {
-  height: 100px;
+  height: 500px;
   width: auto;
   padding: 25px;
 }
