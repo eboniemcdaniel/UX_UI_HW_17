@@ -20,8 +20,8 @@ ul {
 }
 
 .heroimg {
-  height: 10%;
-  width: 10%;
+  height: 100px;
+  width: auto;
   padding: 25px;
 }
 
