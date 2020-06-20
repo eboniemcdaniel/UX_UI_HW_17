@@ -26,6 +26,10 @@ ul {
   display: inline;
 }
 
+li {
+  display: inline;
+}
+
 .heroimg {
   height: 600px;
   padding: 25px;
