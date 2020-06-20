@@ -9,6 +9,11 @@
   text-align: center;
 }
 
+.logo img {
+  width: 20%;
+  height: auto;
+}
+
 nav {
   width: 73%;
   padding: 1%;
